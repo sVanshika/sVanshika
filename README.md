@@ -11,9 +11,8 @@
 - 😄 Pronouns: She/Her
 
 - ⚡ Fun fact: *Inheritance* is the OOPS way to become wealthy 😏 😆
-<div center>
+
 [![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sVanshika&show_icons=true&theme=gradient)](https://github.com/sVanshika/github-readme-stats)
-</div>
 
 
 
