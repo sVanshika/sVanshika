@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Data Structures & Algorithms Problems
 
-- 🌱 I’m currently learning DSA and Deep Learning
+- 🌱 I’m currently learning creating Full Stack Web Application
 
-- 👯 I’m looking to collaborate on Classic DSA and ML problems
+- 👯 I’m looking to collaborate on Classic DSA and Front-end/Back-end issues !
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sharmavanshika/), [Mail](vanshikasharma@jklu.edu.in)
 
