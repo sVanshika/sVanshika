@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on Classic DSA and Front-end/Back-end issues !
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sharmavanshika/), [Mail](vanshikasharma@jklu.edu.in)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sharmavanshika/), [Mail](vanshika.s1112@gmail.com)
 
 - 😄 Pronouns: She/Her
 
