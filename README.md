@@ -1,9 +1,9 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on Data Structures & Algorithms Problems
+- 🔭 I’m currently pursuing ME Software Systems from BITS Pilani 
 
-- 🌱 I’m currently learning creating Full Stack Web Application
-
+- 🌱 I've been a Software Engineer in Nucleus Software where I've worked on FinTech Development
+  
 - 👯 I’m looking to collaborate on Classic DSA and Front-end/Back-end issues !
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sharmavanshika/), [Mail](vanshika.s1112@gmail.com)
